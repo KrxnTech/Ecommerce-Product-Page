@@ -1,7 +1,7 @@
 import "./Heading.css"
 function Heading() {
     return (
-        <h1 className="Heading">Featured Products</h1>
+        <h1 className="Heading">TOP CHARACTERS</h1>
     )
 }
 

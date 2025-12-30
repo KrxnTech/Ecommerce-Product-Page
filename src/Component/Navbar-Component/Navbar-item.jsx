@@ -2,14 +2,13 @@ import "./Navbar-item.css"
 function NavbarItem() {
     return (
         <>
-            <a href="#">BESTECH</a>
+            <a href="#">DEATH NOTE 📓</a>
             <ul>
                 <li>ABOUT</li>
-                <li>PRODUCTS</li>
-                <li>CONTACT</li>
-                <li>LOGIN</li>
+                <li>RATE</li>
+                <li>MANGA</li>
+                <li>EPISODES</li>
             </ul>
-            <button>BUY NOW</button>
         </>
     )
 }
