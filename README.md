@@ -22,6 +22,11 @@ rendering data from array and object
 default values handling
 basic ui structuring using reusable logic
 
+FOLDER STRUCTURE
+--
+<img width="284" height="531" alt="image" src="https://github.com/user-attachments/assets/7cfde032-250d-4516-8aaa-a7c61627c239" />
+<img width="281" height="478" alt="image" src="https://github.com/user-attachments/assets/31a28de1-3a40-4e49-8809-0de65c5df10a" />
+
 FEATURES
 --
 displays top death note characters
