@@ -1,0 +1,8 @@
+import "./Heading.css"
+function Heading() {
+    return (
+        <h1 className="Heading">Featured Products</h1>
+    )
+}
+
+export default Heading
